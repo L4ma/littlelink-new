@@ -1,3 +1,5 @@
+This is a fork of L4ma, which runs the blog https://howtoit.de. If you want to learn more, check out the blog.
+
 # 🔗 LittleLink
 
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
